@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+
+    <title>Title</title>
+    <link>https://backendology.com/podcast</link>
+    <description>description</description>
+    <language>en-US</language>
+    <author>author</author>
+
+    <itunes:category text="category"/>
+    <itunes:summary>summary</itunes:summary>
+    <itunes:author>author</itunes:author>
+    <itunes:subtitle>subtitle</itunes:subtitle>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>author</itunes:name>
+      <itunes:email>itunes@email.com</itunes:email>
+    </itunes:owner>
+
+    <atom:link href="https://backendology.com/podcast" rel="self" type="application/rss+xml" />
+
+    <image>
+      <url>https://backendology.com/podcast/cover.png</url>
+      <title>Title</title>
+      <link>https://backendology.com/podcast</link>
+    </image>
+
+    <itunes:image href="https://backendology.com/podcast/cover.png"/>
+
+    <item>
+      <title>Mojo for Running Episode 1: Overview of Future Episodes</title>
+      <author>Mojo for Running</author>
+      <enclosure url="https://backendology.com/podcast/mfr-2014-01-01.mp3" type="audio/mp3"/>
+    </item>
+
+    <item>
+      <title>Mojo for Running Episode 2: The Hard/Easy Principle</title>
+      <author>Mojo for Running</author>
+      <enclosure url="https://backendology.com/podcast/mfr-2014-01-02.mp3" type="audio/mp3"/>
+    </item>
+
+    <item>
+      <title>Mojo for Running Episode 3: The Once Weekly Long Run </title>
+      <author>Mojo for Running</author>
+      <enclosure url="https://backendology.com/podcast/mfr-2014-01-03-.mp3" type="audio/mp3"/>
+    </item>
+
+    <item>
+      <title>Mojo for Running Episode 4: High School Cross Country Runners</title>
+      <author>Mojo for Running</author>
+      <enclosure url="https://backendology.com/podcast/mfr-2014-01-04.mp3" type="audio/mp3"/>
+    </item>
+
+    <item>
+      <title>Mojo for Running Episode 5: Macro and Micro Cycles </title>
+      <author>Mojo for Running</author>
+      <enclosure url="https://backendology.com/podcast/mfr-2014-01-05.mp3" type="audio/mp3"/>
+    </item>
+
+    <item>
+      <title>Mojo for Running Episode 6: After Base Building</title>
+      <author>Mojo for Running</author>
+      <enclosure url="https://backendology.com/podcast/mfr-2014-01-06.mp3" type="audio/mp3"/>
+    </item>
+
+    <item>
+      <title>Mojo for Running Episode 7: Tapering for Your Goal Race</title>
+      <author>Mojo for Running</author>
+      <enclosure url="https://backendology.com/podcast/mfr-2014-01-07.mp3" type="audio/mp3"/>
+    </item>
+
+    <item>
+      <title>Mojo for Running Episode 8: Tips for Running Faster</title>
+      <author>Mojo for Running</author>
+      <enclosure url="https://backendology.com/podcast/mfr-2014-01-08.mp3" type="audio/mp3"/>
+    </item>
+
+    <item>
+      <title>Mojo for Running Episode 9: Easing Into Speedwork</title>
+      <author>Mojo for Running</author>
+      <enclosure url="https://backendology.com/podcast/mfr-2014-01-09.mp3" type="audio/mp3"/>
+    </item>
+
+    <item>
+      <title>Mojo for Running Episode 10: The Long Term Effects of Running</title>
+      <author>Mojo for Running</author>
+      <enclosure url="https://backendology.com/podcast/mfr-2014-01-10.mp3" type="audio/mp3"/>
+    </item>
+
+    <item>
+      <title>Mojo for Running Episode 11: There’s Always Next Time</title>
+      <author>Mojo for Running</author>
+      <enclosure url="https://backendology.com/podcast/mfr-2014-01-11.mp3" type="audio/mp3"/>
+    </item>
+
+    <item>
+      <title>Mojo for Running Episode 12: Dealing With Running Injuries </title>
+      <author>Mojo for Running</author>
+      <enclosure url="https://backendology.com/podcast/mfr-2014-01-12.mp3" type="audio/mp3"/>
+    </item>
+
+    <item>
+      <title>Mojo for Running Episode 13: Per Mile Pace Difference for Hard/Easy Runs </title>
+      <author>Mojo for Running</author>
+      <enclosure url="https://backendology.com/podcast/mfr-2014-01-13.mp3" type="audio/mp3"/>
+    </item>
+
+    <item>
+      <title>Mojo for Running Episode 14: Running in Hot Weather</title>
+      <author>Mojo for Running</author>
+      <enclosure url="https://backendology.com/podcast/mfr-2014-01-14.mp3" type="audio/mp3"/>
+    </item>
+
+    <item>
+      <title>Mojo for Running Episode 15: Food, Birthdays, and Calories </title>
+      <author>Mojo for Running</author>
+      <enclosure url="https://backendology.com/podcast/mfr-2014-01-15.mp3" type="audio/mp3"/>
+    </item>
+
+    <item>
+      <title>Mojo for Running Episode 16: You Just Never Know </title>
+      <author>Mojo for Running</author>
+      <enclosure url="https://backendology.com/podcast/mfr-2014-01-16.mp3" type="audio/mp3"/>
+    </item>
+
+    <item>
+      <title>Mojo for Running Episode 17: Running Through the Holidays</title>
+      <author>Mojo for Running</author>
+      <enclosure url="https://backendology.com/podcast/mfr-2014-01-17.mp3" type="audio/mp3"/>
+    </item>
+
+    <item>
+      <title>Mojo for Running Episode 18: What Does DNF Mean to You?</title>
+      <author>Mojo for Running</author>
+      <enclosure url="https://backendology.com/podcast/mfr-2014-01-18.mp3" type="audio/mp3"/>
+    </item>
+
+    <item>
+      <title>Mojo for Running Episode 19: A Great Work Ethic, a Challenged Runner </title>
+      <author>Mojo for Running</author>
+      <enclosure url="https://backendology.com/podcast/mfr-2014-01-19.mp3" type="audio/mp3"/>
+    </item>
+
+    <item>
+      <title>Mojo for Running Episode 20: Spinning for Runners</title>
+      <author>Mojo for Running</author>
+      <enclosure url="https://backendology.com/podcast/mfr-2014-01-20.mp3" type="audio/mp3"/>
+    </item>
+
+    <item>
+      <title>Mojo for Running Episode 21: Date a Girl Who Runs</title>
+      <author>Mojo for Running</author>
+      <enclosure url="https://backendology.com/podcast/mfr-2014-01-21.mp3" type="audio/mp3"/>
+    </item>
+
+    <item>
+      <title>Mojo for Running Episode 22: Running Personally </title>
+      <author>Mojo for Running</author>
+      <enclosure url="https://backendology.com/podcast/mfr-2014-01-22.mp3" type="audio/mp3"/>
+    </item>
+
+    <item>
+      <title>Mojo for Running Episode 23: How is Your Base Coming Along?</title>
+      <author>Mojo for Running</author>
+      <enclosure url="https://backendology.com/podcast/mfr-2014-01-23.mp3" type="audio/mp3"/>
+    </item>
+
+    <item>
+      <title>Mojo for Running Episode 24: Keep a Running Journal</title>
+      <author>Mojo for Running</author>
+      <enclosure url="https://backendology.com/podcast/mfr-2014-01-24.mp3" type="audio/mp3"/>
+    </item>
+
+    <item>
+      <title>Mojo for Running Episode 25: Breathing Issues</title>
+      <author>Mojo for Running</author>
+      <enclosure url="https://backendology.com/podcast/mfr-2014-01-25.mp3" type="audio/mp3"/>
+    </item>
+
+    <item>
+      <title>Mojo for Running Episode 26: Running Form</title>
+      <author>Mojo for Running</author>
+      <enclosure url="https://backendology.com/podcast/mfr-2014-01-26.mp3" type="audio/mp3"/>
+    </item>
+
+    <item>
+      <title>Mojo for Running Episode 27: Cadence, aka Stride Rate or Leg Turnover</title>
+      <author>Mojo for Running</author>
+      <enclosure url="https://backendology.com/podcast/mfr-2014-01-27.mp3" type="audio/mp3"/>
+    </item>
+
+    <item>
+      <title>Mojo for Running Episode 28: Cadence, Part 2 </title>
+      <author>Mojo for Running</author>
+      <enclosure url="https://backendology.com/podcast/mfr-2014-01-28.mp3" type="audio/mp3"/>
+    </item>
+
+    <item>
+      <title>Mojo for Running Episode 29: 10 Tips for Staying Healthy and Preventing Injury </title>
+      <author>Mojo for Running</author>
+      <enclosure url="https://backendology.com/podcast/mfr-2014-01-29.mp3" type="audio/mp3"/>
+    </item>
+
+    <item>
+      <title>Mojo for Running Episode 31: When You Have a Horrible Race </title>
+      <author>Mojo for Running</author>
+      <enclosure url="https://backendology.com/podcast/mfr-2014-01-31.mp3" type="audio/mp3"/>
+    </item>
+
+    <item>
+      <title>Mojo for Running Episode 33: Running Friends </title>
+      <author>Mojo for Running</author>
+      <enclosure url="https://backendology.com/podcast/mfr-2014-02-02.mp3" type="audio/mp3"/>
+    </item>
+
+    <item>
+      <title>Mojo for Running Episode 34: How to Find a Running Group </title>
+      <author>Mojo for Running</author>
+      <enclosure url="https://backendology.com/podcast/mfr-2014-02-03.mp3" type="audio/mp3"/>
+    </item>
+
+    <item>
+      <title>Mojo for Running Episode 35: Jumping Rope</title>
+      <author>Mojo for Running</author>
+      <enclosure url="https://backendology.com/podcast/mfr-2014-02-04.mp3" type="audio/mp3"/>
+    </item>
+
+  </channel>
+</rss>
